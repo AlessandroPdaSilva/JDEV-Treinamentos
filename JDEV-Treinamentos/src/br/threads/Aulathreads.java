@@ -1,7 +1,8 @@
-package threads;
+package br.threads;
 
 public class Aulathreads {
-
+	// teste
+	
 	public static void main(String[] args) throws InterruptedException {
 		
 		// LOOP

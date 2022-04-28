@@ -1,4 +1,4 @@
-package threads;
+package br.threads;
 
 public class Aulathreads2 {
 
